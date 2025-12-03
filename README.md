@@ -5,9 +5,9 @@ O objetivo é apresentar uma página inicial simples e direta para destacar habi
 
 🚀 Tecnologias utilizadas
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
 Google Fonts
 
