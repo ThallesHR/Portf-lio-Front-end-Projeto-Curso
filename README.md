@@ -1,4 +1,4 @@
-🌐 Portfólio Pessoal de Demonstração
+# 🌐 Portfólio Pessoal de Demonstração
 
 Este é um projeto de portfólio front-end desenvolvido em HTML e CSS.
 O objetivo é apresentar uma página inicial simples e direta para destacar habilidades, redes sociais e contatos desenvolvido no curso de html e css da alura
