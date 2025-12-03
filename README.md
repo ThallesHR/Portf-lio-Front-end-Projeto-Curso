@@ -9,10 +9,11 @@ O objetivo é apresentar uma página inicial simples e direta para destacar habi
 
 - CSS3
 
-Google Fonts
+- Google Fonts
 
+````
 📸 Demonstração
-
+````
 A página contém:
 
 Um título de destaque para chamar atenção.
